@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>889545013763-347d1r1fe61blt69mv6laai9cbo0182e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.889545013763-347d1r1fe61blt69mv6laai9cbo0182e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5wNjvgVgjm3QEQeFnWfAbxla6ODDBmZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>889545013763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nivventures.kontraband</string>
+	<key>PROJECT_ID</key>
+	<string>kontraband-111</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kontraband-111.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:889545013763:ios:b25dae911d68f5fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://kontraband-111.firebaseio.com</string>
+</dict>
+</plist>

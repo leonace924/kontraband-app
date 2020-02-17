@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "Kontraband",
+    "slug": "band",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "packagerOpts": {
+      "nonPersistent": "--nonPersistent"
+    },
+    "facebookScheme": "fb188606978244385",
+    "facebookAppId": "188606978244385",
+    "facebookDisplayName": "Kontraband",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "3.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/iphoneicon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.nivventures.kontraband",
+      "supportsTablet": true,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.889545013763-cesg20km1ebpualh146o800pejhdo2j9"
+        }
+      },
+      "splash": {
+        "image": "./assets/iphone.png",
+        "tabletImage": "./assets/ipad.png",
+        "resizeMode": "cover",
+        "backgroundColor": "#c4201b"
+      }
+    },
+    "android": {
+      "package": "com.nivventures.kontraband",
+      "versionCode": 12,
+      "googleServicesFile": "./google-services.json",
+      "splash": {
+        "resizeMode": "cover",
+        "backgroundColor": "#c4201b",
+        "mdpi": "./assets/drawable-port-mdpi-screen.png",
+        "hdpi": "./assets/drawable-port-hdpi-screen.png",
+        "xhdpi": "./assets/drawable-port-xhdpi-screen.png",
+        "xxhdpi": "./assets/drawable-port-xxhdpi-screen.png",
+        "xxxhdpi": "./assets/drawable-port-xxxhdpi-screen.png"
+      },
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyB_zj4vNgMwlSZZFZC6FSmXf8FsEKUfIpw",
+          "certificateHash": "51:BA:CB:82:06:61:63:AD:00:41:3E:BB:B2:53:24:36:41:E6:C7:0F"
+        }
+      }
+    },
+    "description": ""
+  }
+}
