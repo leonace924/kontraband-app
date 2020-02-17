@@ -1,4 +1,4 @@
-project setup local
+Kontraband app - React Native Expo
 
 - Clone the project
 - Install Yarn
