@@ -1,4 +1,4 @@
-Kontraband app - React Native Expo
+--Kontraband app - React Native Expo
 
 - Clone the project
 - Install Yarn
