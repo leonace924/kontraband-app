@@ -1,5 +1,7 @@
 ## Kontraband app - React Native Expo
 
+https://play.google.com/store/apps/details?id=com.nivventures.kontraband&hl=en
+
 - Clone the project
 - Install Yarn
 - Run 
